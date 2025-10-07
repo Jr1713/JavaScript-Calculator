@@ -12,10 +12,6 @@ Live demo: [JavaScript Calculator by jr-delfin](https://codepen.io/jr-delfin/pen
 1. What This Does  
 2. Tools & Technologies Used  
 3. How It Works  
-4. Project Structure  
-5. Usage / Instructions  
-6. Possible Enhancements  
-7. License  
 
 ---
 
